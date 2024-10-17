@@ -3,6 +3,8 @@ Companion repo to my blog article [Forecasting the weather with neural ODEs](htt
 
 ### Link to the Project Report:
 Project Report - [https://drive.google.com/file/d/1sTfBpmtCicVzsQPhCJEa8ZIUt9KMQWS1/view]
+Refer to this Report for our contributions,experiments and their results and how to navigate this repo. 
+
 ### Data
 The dataset used is [available on Kaggle](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data). It is released under [CC0: Public domain](https://creativecommons.org/publicdomain/zero/1.0/) and included in this repo's [data](./data) folder for convenience.
 
