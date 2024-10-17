@@ -1,8 +1,7 @@
 # Neural ODE weather forecasting
 Companion repo to my blog article [Forecasting the weather with neural ODEs](https://sebastiancallh.github.io/post/neural-ode-weather-forecast/). Contains code for training the neural ODE and plotting the fit.
 
-### Link to the Project Report:
-Project Report - [https://drive.google.com/file/d/1sTfBpmtCicVzsQPhCJEa8ZIUt9KMQWS1/view]
+### Link to the Project Report: [Report](https://drive.google.com/file/d/1sTfBpmtCicVzsQPhCJEa8ZIUt9KMQWS1/view)
 Refer to this Report for our contributions,experiments and their results and how to navigate this repo. 
 
 ### Data
